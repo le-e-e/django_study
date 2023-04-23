@@ -1,4 +1,7 @@
-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
+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
 
-git remote add origin https://github.com/le-e-e/D
-jango-study.git
+
+git add .
+git commit -m "2023/04/23"
+git remote add origin https://github.com/le-e-e/Django-study.git
+git push -u origin main
