@@ -1,7 +1,22 @@
-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
 
+깃허브에 올리는 방법
 
 git add .
 git commit -m "2023/04/23"
-git remote add origin https://github.com/le-e-e/Django-study.git
 git push -u origin main
+le-e-e
+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
+
+
+
+
+
+
+
+
+
+
+
+
+
+git remote add origin https://github.com/le-e-e/Django-study.git
